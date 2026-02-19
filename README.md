@@ -27,7 +27,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
@@ -43,6 +43,7 @@
 
 ---
 
+
 ## 🌱 What I Care About
 
 - 사용자 흐름을 끊지 않는 인터랙션과 에러 처리
@@ -54,7 +55,10 @@
 
 ## 📊 Activity
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Jackihyun&show_icons=true&bg_color=00000000"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackihyun&layout=compact&bg_color=00000000"/>
-</p>
+- 제품형 프로젝트 중심 개발 경험
+- Jira 기반 이슈 관리 및 협업
+- Storybook을 활용한 UI 컴포넌트 정리
+- Next.js 기반 개인 기술 블로그 운영
+
+<br/>
+
