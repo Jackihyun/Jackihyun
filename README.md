@@ -1,53 +1,60 @@
-<div align="center">
+<h1 align="center">
+  안녕하세요! 👋 프론트엔드 개발자 박기현입니다.
+</h1>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=B6CFB6&height=150&section=header&text=Kihyun%20Park&fontColor=4C3C31&fontSize=60&animation=fadeIn)
-
-### 🚀 프론트엔드 개발자 박기현
-*“AI와 협업하여 효율적으로 문제를 해결하고 최상의 사용자 경험을 설계합니다.”*
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width=60%" align="left" valign="top">
-      <strong>💡 핵심 역량 & 목표</strong><br/>
-      • <b>React · Next.js</b> 기반의 고성능 웹 서비스 구현<br/>
-      • <b>TypeScript</b> 중심의 안정적인 프론트엔드 아키텍처 설계<br/>
-      • 사용자 중심의 디테일한 <b>UI/UX 디자인 시스템</b> 구축
-    </td>
-    <td width="45%" align="center" valign="top">
-      <strong>🤖 AI 워크플로우</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Cursor-515357?style=flat&logo=cursor&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Figma%20Make-F24E1E?style=flat&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B6CFB6&height=1" width="100%"/>
-
-### 🛠️ 기술 스택 & 도구
-
-**프론트엔드** &nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TAILWINDCSS&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=SVELTE&logoColor=white"/>
-
-**백엔드 (학습 중)** &nbsp;
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-**도구** &nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B6CFB6&height=1" width="100%"/>
-
-### 📈 활동 지표
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jackihyun&show_icons=true&title_color=4C3C31&icon_color=4C3C31&text_color=4C3C31&bg_color=00000000&border_color=B6CFB6&hide_border=false" height="150px"/> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackihyun&layout=compact&title_color=4C3C31&icon_color=4C3C31&text_color=4C3C31&bg_color=00000000&border_color=B6CFB6&hide_border=false" height="150px"/>
+<p align="center">
+  저는 화면을 만드는 것을 넘어서, <b>사용자의 흐름을 설계</b>하고 싶습니다.<br/>
+  React와 TypeScript를 기반으로 제품형 웹 서비스를 만들며,<br/>
+  복잡한 상태를 단순하게 정리하고 UX 디테일을 다듬는 일을 좋아합니다.<br/>
+  금융 · AI · 플랫폼 도메인 프로젝트 경험이 있습니다.
+</p>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pkhjack2325@gmail.com) [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=nextdotjs&logoColor=white)](https://www.blog.jackihyun.me)
+<p align="center">
+  <a href="https://www.notion.so/Kihyun-Park-1432ee7e972780f98f6cdbd9ee1c1646?source=copy_link">
+    <img src="https://img.shields.io/badge/Resume-4C3C31?style=for-the-badge"/>
+  </a>
+  <a href="https://jackihyun.me">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://blog.jackihyun.me">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="36" height="36" alt="Jira"/>
+</p>
+
+---
+
+## 🌱 What I Care About
+
+- 사용자 흐름을 끊지 않는 인터랙션과 에러 처리
+- 서버 데이터와 UI 상태의 역할 분리
+- 재사용 가능한 컴포넌트 구조와 일관된 UI
+- 성능 지표 기반 개선(렌더링/번들/이미지 등)
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Jackihyun&show_icons=true&bg_color=00000000"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackihyun&layout=compact&bg_color=00000000"/>
+</p>
