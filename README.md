@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.notion.so/Kihyun-Park-1432ee7e972780f98f6cdbd9ee1c1646?source=copy_link">
+  <a href="https://www.notion.so/Kihyun-Park-dc32ee7e97278267b89e01770ba0895d?source=copy_link">
     <img src="https://img.shields.io/badge/Resume-4C3C31?style=for-the-badge"/>
   </a>
   <a href="https://jackihyun.me">
