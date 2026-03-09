@@ -12,9 +12,9 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.notion.so/Kihyun-Park-30e352a5283e80d6ae1fdd4ff311cfae?source=copy_link">
+  <!-- <a href="https://www.notion.so/Kihyun-Park-30e352a5283e80d6ae1fdd4ff311cfae?source=copy_link">
     <img src="https://img.shields.io/badge/Resume-4C3C31?style=for-the-badge"/>
-  </a>
+  </a> -->
   <a href="https://jackihyun.com">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
